@@ -9,3 +9,5 @@ This implementation is based on the paper:
 ![](https://github.com/rprasan/Motion-Planning/blob/main/6.%20Gradient-based%20steering/Results/CustomScenario2.gif) <br />
 ![](https://github.com/rprasan/Motion-Planning/blob/main/6.%20Gradient-based%20steering/Results/CustomScenario3.gif) <br />
 ![](https://github.com/rprasan/Motion-Planning/blob/main/6.%20Gradient-based%20steering/Results/CustomScenario4.gif) <br />
+
+**NB: This repo is being updated**
